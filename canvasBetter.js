@@ -13,6 +13,7 @@
 // @exclude      https://siteadmin*instructure.com/*
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @downloadURL  https://raw.githubusercontent.com/alcarey14/TamperMonkey/main/canvasBetter.js
 // ==/UserScript==
 
 
